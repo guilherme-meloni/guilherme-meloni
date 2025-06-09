@@ -7,17 +7,33 @@
 
 ---
 
-### 🧠 Sobre mim
+<div align="left">
+  <left>
+      <img align='right' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="150">
+          <img align='right' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" width="150">
+  <a href="https://github.com/guilherme-meloni">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilherme-meloni&show_icons=true&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca" alt="GitHub Stats com Macchiato">
+     </div>
+<div align="right">
+  <br>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme-meloni&layout=compact&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca" alt="Linguagens mais usadas com Macchiato">
+</div>
 
-```ts
-const guilherme = {
-  pronouns: "he" | "him",
-  level: "iniciante",
-  languages: ["HTML", "CSS", "JavaScript", "React", "C++"],
-  learning: ["Programação binária", "estrutura de dados"],
-  devType: "frontend",
-  editor: "Code (open source)",
-  system: "Arch Linux",
-  prefers: "Terminal > Mouse",
-  interests: ["UI minimalista", "interfaces responsivas", "design funcional"]
-};
+
+
+<div style="display: inline_block"><br>
+  <img align="right" alt="gui-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="right" alt="gui-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="right" alt="gui-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="right" alt="gui-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="right" alt="gui-arch" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg">
+  <img align="right" alt="gui-arch" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg">
+
+</div>
+
+ 
+
+
+
+
+ 
