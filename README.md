@@ -1,11 +1,5 @@
-<h1 align="center">Oi, eu sou o Guilherme! 🧑‍💻</h1>
+<h1 align="left">Oi, eu sou o Guilherme! 🧑‍💻</h1>
 
-<p align="center">
-  Estudante de Sistemas de Informação e apaixonado por tecnologia.<br/>
-  Iniciando minha jornada no desenvolvimento web e no universo da programação de baixo nível.
-</p>
-
----
 
 <div align="left">
   <left>
