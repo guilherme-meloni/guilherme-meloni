@@ -3,10 +3,12 @@
 
 <div align="left">
   <left>
-  <img align="right" alt="gui-arch" height="200" width="280" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm0yMWtycGd2b3BtNHIxdGUydjRhYXVqbzU4enZud2lwMTRxMWRxMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/V2ojLo7PvhVug/giphy.gif">
+      <img align='right' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="90">
+          <img align='right' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" width="90">
   <a href="https://github.com/guilherme-meloni">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilherme-meloni&show_icons=true&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca" alt="GitHub Stats com Macchiato">
      </div>
+
 
   <div align="right">
   <p align="left">
@@ -28,10 +30,6 @@
   <img align="right" alt="gui-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="right" alt="gui-arch" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg">
   <img align="right" alt="gui-arch" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg">
-
-
-  
-
 
 </div>
 
