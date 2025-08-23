@@ -1,41 +1,38 @@
-<h1 align="left">Oi, eu sou o Guilherme! 🧑‍💻</h1>
+# Olá, eu sou o Guilherme! 👋
 
+<p align="center">
+  <a href="">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:SEU_EMAIL_AQUI">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-<div align="left">
-  <left>
-      <img align='right' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="90">
-          <img align='right' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" width="90">
-  <a href="https://github.com/guilherme-meloni">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilherme-meloni&show_icons=true&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca" alt="GitHub Stats com Macchiato">
-     </div>
+## 👨‍💻 Sobre Mim
 
+Desenvolvedor Front-end e um grande entusiasta do universo **Open Source**. Meu foco é criar interfaces web modernas e eficientes, e tenho um carinho especial por trabalhar com **Svelte**.
 
-  <div align="right">
-  <p align="left">
-    <br>
-    <strong>Estudante de Sistemas de Informação</strong> e apaixonado por tecnologia.<br>
-    Iniciando minha jornada no desenvolvimento web e <br>
-    no universo da programação de baixo nível.
-  </p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme-meloni&layout=compact&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca" alt="Linguagens mais usadas com Macchiato">
-</div>
+Como um orgulhoso usuário de **Arch Linux**, gosto de entender como as coisas funcionam por baixo dos panos e valorizo a liberdade e o controle que ferramentas como o terminal me oferecem. Sou autodidata, estou sempre explorando novas tecnologias e aprimorando minhas habilidades para entregar o melhor resultado possível.
 
+🚀 Atualmente, estou disponível para **trabalhos como freelancer**. Se você tem uma ideia ou projeto e precisa de ajuda, vamos conversar!
 
+## 🔧 Meu Arsenal Tecnológico
 
-    
-<div style="display: inline_block"><br>
-  <img align="right" alt="gui-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="right" alt="gui-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="right" alt="gui-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="gui-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="gui-arch" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg">
-  <img align="right" alt="gui-arch" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg">
+Aqui estão algumas das tecnologias e ferramentas com as quais eu mais trabalho:
 
-</div>
+| Categoria      | Tecnologias                                                                                                                             |
+| -------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
+| **Front-End** | <img src="https://skillicons.dev/icons?i=svelte,javascript,html,css,tailwind" />                                                         |
+| **Back-End** | <img src="https://skillicons.dev/icons?i=nodejs,postgres" />                                                                            |
+| **Ferramentas**| <img src="https://skillicons.dev/icons?i=git,bash,neovim,arch" />                                                                        |
 
- 
+## 🚀 Meus Projetos em Destaque
 
+| Projeto                 | Descrição                                                                                                  | Acessar                                                                                                                                              |
+| ----------------------- | ---------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Controle de Medicamentos** | Uma aplicação web para ajudar no gerenciamento e controle de horários de medicamentos de forma simples e intuitiva. | [🔗 Repositório](LINK_DO_SEU_REPOSITORIO_AQUI) <br> [🌐 Deploy](LINK_DO_SEU_PROJETO_NA_WEB_AQUI) |
 
+## 🌱 No que estou trabalhando
 
-
- 
+Atualmente, estou desenvolvendo um **aplicativo de finanças pessoais** completo, construindo tanto o front-end quanto o back-end para criar uma solução robusta e funcional.
