@@ -1,0 +1,16 @@
+name: bonsai
+
+on:
+  schedule:
+    - cron: '0 3 * * *'   # regenera todo dia às 03:00 UTC
+  workflow_dispatch:       # permite rodar manualmente
+
+permissions:
+  contents: write
+
+jobs:
+  grow:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: egorthinks/git-bonsai@v1
